@@ -32,7 +32,7 @@ function snackBar(msg, icon){
     Swal.fire({
         title : msg,
         icon : icon,
-        timer : 3000 
+        timer : 2000 
     })
 }
 
